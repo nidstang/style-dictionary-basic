@@ -1,0 +1,9 @@
+{
+   "size": {
+      "font": {
+          "base": { "value": "16px" },
+          "medium": { "value": "18px" },
+          "large": { "value": "24px" }
+      }
+   }
+}

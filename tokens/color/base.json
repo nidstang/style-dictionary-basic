@@ -1,0 +1,8 @@
+{
+   "color": {
+      "base": {
+          "primary": { "value": "#007bff" },
+          "secondary": { "value": "#00ff00" }
+      }
+   }
+}
