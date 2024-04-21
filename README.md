@@ -1,6 +1,6 @@
 # Getting started with Style Dictionary
 
-Este ejemplo se utilizó para ilustrar el artículo:
+Este ejemplo se utilizó para ilustrar el artículo: https://open.substack.com/pub/designtokenses/p/guia-rapida-para-empezar-con-style?r=49xej&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true
 
 ## Requisitos
 El único requisito es tener instaldo NodeJS, concretamente la versión 18+.
